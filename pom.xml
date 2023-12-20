@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>006ed2f2-257e-4812-b06a-9d749262acd3</groupId>
-	<artifactId>surexport-testcicd-api-v2</artifactId>
+	<artifactId>surexport-testcicd-api-v3</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
@@ -15,7 +15,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<mule.maven.plugin.version>4.0.0</mule.maven.plugin.version>
 		<maven.clean.plugin.version>3.0.0</maven.clean.plugin.version>
-		<cloudhub.application.name>surexport-testcicd-api-v2</cloudhub.application.name>
+		<cloudhub.application.name>surexport-testcicd-api-v3</cloudhub.application.name>
 		<cloudhub.environment>Sandbox</cloudhub.environment>
 		<deployment.replicas>1</deployment.replicas>
 		<cloudhub.target>Cloudhub-US-East-2</cloudhub.target>
